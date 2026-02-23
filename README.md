@@ -20,7 +20,13 @@ It only sends a Telegram message once you mark certain tasks as `Completed`.
 
 Install the plugin
 
-<TBD>
+ - Open your Obsidian Settings: ⚙️
+ - Select Community Plugins
+ - Under Installed Plugins, locate BRAT and select the Settings ⚙️ button
+ - Under the BRAT settings, click Add Beta Plugin
+ - Enter https://github.com/melbv/obsidian-tasks-to-tg/ into the text box
+ - Click Add Plugin
+ - Enable the `Tasks --> Telegram` plugin in the list of Community Plugins in your Settings (⚙️)
 
 &emsp;
 
