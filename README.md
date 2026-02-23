@@ -5,7 +5,9 @@ Obsidian plugin to motify Telegram of the completion of a task
 
 I was looking for a way to send a message to Telegram when I complete certain tasks in Obsidian.md as a trigger for an AI agent or any other service able to use Telegram as an input. This plugin is just a simple vibe-coded attempt to resolve this within my workflow. Do not hesitate to use if it can be helpful to you.
 It only sends a Telegram message once you mark certain tasks as `Completed`.
+
 ⚠️ It sends data to Telegram through an HTTP request so it will use your network!
+
 🕵🏻‍♂️ For privacy purposes, the plugin only stores your settings and the Telegram API credentials are encrypted by default,
 
 &emsp;
