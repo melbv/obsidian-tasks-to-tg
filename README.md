@@ -24,7 +24,7 @@ Install the plugin
 
 &emsp;
 
-Create a Telegram Bot and retrieve your ChatID (On Telegram, Open `Botfather`, type `/newbot` and follow the tutorial. Not the token to access the HTTP API that you will require.
+Create a Telegram Bot and retrieve your ChatID (On Telegram, Open `Botfather`, type `/newbot` and follow the tutorial). Make a note of the token to access the HTTP API, you will require it.
 
 In the plugin settings (`Settings > Tasks --> Telegram`), add your API Token under `Bot Token`
 
