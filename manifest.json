@@ -3,7 +3,7 @@
 	"name": "Tasks → Telegram",
 	"version": "1.0.0",
 	"minAppVersion": "1.4.0",
-	"description": "Send a Telegram notification when an Obsidian Task is marked as done.",
+	"description": "Send a Telegram notification when a Task is marked as done.",
 	"author": "Your Name",
 	"authorUrl": "",
 	"isDesktopOnly": false
