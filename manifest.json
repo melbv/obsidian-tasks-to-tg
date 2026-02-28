@@ -1,7 +1,7 @@
 {
   "id": "tasks-to-tg",
   "name": "Tasks → Telegram",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minAppVersion": "1.4.0",
   "description": "Send a Telegram notification when a Task is marked as done.",
   "author": "melbv",
